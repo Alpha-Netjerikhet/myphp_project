@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getName()\tstring"
+			],
+			[
+				"L",
+				"Length〔class〕"
+			],
+			[
+				"C",
+				"Component"
+			],
+			[
+				"not",
+				"NotBlank\tNotBlank"
+			],
+			[
+				"Ca",
+				"CarBundle"
+			],
+			[
+				"car",
+				"carRepository"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP",
+				"PHPIntel: Scan Project"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"HTMLPrettify",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"htmlpr",
+				"HTMLPrettify"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"CodeFormatter",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"Forma",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"Package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"view.run_command(\"htmlprettify\")",
+			"PHP Companion"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/myphp_project/myfirstfile.php",
+		"/C/xampp/htdocs/autotrader/app/config/routing.yml",
+		"/C/xampp/htdocs/autotrader/app/config/config.yml",
+		"/C/xampp/htdocs/autotrader/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Request.php",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Resources/car/edit.html.twig",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Resources/views/Default/show.html.twig",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Resources/views/Default/index.html.twig",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Resources/views/car/new.html.twig",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Resources/views/car/index.html.twig",
+		"/C/xampp/htdocs/autotrader/vendor/sensio/framework-extra-bundle/Configuration/Template.php",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Controller/DefaultController.php",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Form/MakeType.php",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Form/CarType.php",
+		"/C/xampp/htdocs/autotrader/vendor/sensio/generator-bundle/Resources/skeleton/crud/views/edit.html.twig.twig",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Controller/CarController.php",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Entity/Model.php",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Entity/Make.php",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Resources/views/car/show.html.twig",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Resources/views/car/edit.html.twig",
+		"/C/xampp/htdocs/autotrader/vendor/symfony/symfony/src/Symfony/Bridge/Twig/TwigEngine.php",
+		"/C/xampp/htdocs/autotrader/src/AppBundle/Controller/DefaultController.php",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Entity/Car.php~",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Entity/Model.php~",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Entity/Make.php~",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Entity/Car.php",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Repository/CarRepository.php",
+		"/C/xampp/htdocs/autotrader/vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/Type/SubmitType.php",
+		"/C/xampp/htdocs/autotrader/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Resources/views/Default/blabla.html.twig",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Resources/views/Default/show.html",
+		"/C/xampp/htdocs/autotrader/app/config/parameters.yml",
+		"/C/xampp/htdocs/autotrader/app/Resources/views/default/index.html.twig",
+		"/C/xampp/htdocs/autotrader/src/AppBundle/Menu/Builder.php",
+		"/C/xampp/htdocs/autotrader/app/AppKernel.php",
+		"/C/xampp/htdocs/autotrader/app/Resources/views/base.html.twig",
+		"/C/xampp/htdocs/autotrader/src/CarBundle/Resources/views/base.html.twig",
+		"/C/Users/Ashraf_Abdin/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Ashraf_Abdin/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/xampp/htdocs/autotrader/composer.json",
+		"/C/xampp/htdocs/autotrader/app/config/services.yml",
+		"/C/xampp/htdocs/autotrader/var/cache/dev/appDevDebugProjectContainer.php.meta",
+		"/C/xampp/htdocs/autotrader/var/cache/dev/appDevDebugProjectContainer.php",
+		"/C/xampp/htdocs/autotrader/var/cache/dev/appDevDebugProjectContainer.xml",
+		"/C/xampp/htdocs/autotrader/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php",
+		"/C/xampp/htdocs/autotrader/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php.meta",
+		"/C/xampp/htdocs/autotrader/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php",
+		"/C/xampp/htdocs/autotrader/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php.meta",
+		"/C/xampp/htdocs/autotrader/src/AppBundle/Menu/Builder",
+		"/C/xampp/htdocs/todolist/app/Resources/views/todo/details.html.twig",
+		"/C/xampp/htdocs/todolist/app/Resources/views/todo/edit.html.twig",
+		"/C/xampp/htdocs/todolist/app/Resources/views/todo/create.html.twig",
+		"/C/xampp/htdocs/todolist/app/Resources/views/todo/index.html.twig",
+		"/C/xampp/htdocs/todolist/app/Resources/views/base.html.twig",
+		"/C/xampp/htdocs/todolist/src/AppBundle/Controller/DefaultController.php",
+		"/C/xampp/htdocs/todolist/src/AppBundle/Controller/TodoController.php",
+		"/C/xampp/htdocs/todolist/app/config/config.yml",
+		"/C/xampp/htdocs/todolist/app/config/parameters.yml.dist"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\autotrader"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CarBundle",
+			"CarBund",
+			"CarBundle",
+			"Car",
+			"cache"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myphp_project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"twigengine.php",
+				"vendor\\symfony\\symfony\\src\\Symfony\\Bridge\\Twig\\TwigEngine.php"
+			],
+			[
+				"edit.html.twig",
+				"vendor\\sensio\\generator-bundle\\Resources\\skeleton\\crud\\views\\edit.html.twig.twig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 437.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
